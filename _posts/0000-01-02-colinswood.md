@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our (csw) second slide!"
 ---
-Your text
+This is the changed version as asked for...
 Use the left arrow to go back
